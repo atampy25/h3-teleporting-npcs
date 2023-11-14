@@ -1,1 +1,14 @@
-{"tempHash":"00DBE029A2634978","tbluHash":"008026AE7F8E3D62","patch":[{"SubEntityOperation":["016e3ef113db3672",{"SetPropertyValue":{"property_name":"m_MovementType","value":"MT_SNAP"}}]},{"SubEntityOperation":["199ec874bfc5e9e4",{"RemovePropertyAlias":"m_MovementType"}]}],"patchVersion":6}
+{
+	"tempHash": "00DBE029A2634978",
+	"tbluHash": "008026AE7F8E3D62",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"016e3ef113db3672",
+				{ "SetPropertyValue": { "property_name": "m_MovementType", "value": "MT_SNAP" } }
+			]
+		},
+		{ "SubEntityOperation": ["199ec874bfc5e9e4", { "RemovePropertyAlias": "m_MovementType" }] }
+	],
+	"patchVersion": 6
+}
